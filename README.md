@@ -1,4 +1,4 @@
 # pokemon_App
 ### Consumo de api
-Uso de fetch/await 
-Maquetado usando CSS flexbox.
+#### Uso de fetch/await 
+#### Maquetado usando CSS flexbox.
